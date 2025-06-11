@@ -1,0 +1,136 @@
+2025-06-11 13:11:31,591 - INFO - Database initialized successfully
+2025-06-11 13:11:31,592 - INFO - Starting Flask application...
+2025-06-11 13:11:31,652 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.4.126:5000
+2025-06-11 13:11:31,652 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-11 13:11:31,655 - INFO -  * Restarting with stat
+2025-06-11 13:11:31,960 - INFO - Database initialized successfully
+2025-06-11 13:11:31,961 - INFO - Starting Flask application...
+2025-06-11 13:11:31,977 - WARNING -  * Debugger is active!
+2025-06-11 13:11:31,983 - INFO -  * Debugger PIN: 485-313-795
+2025-06-11 13:11:37,728 - INFO - 127.0.0.1 - - [11/Jun/2025 13:11:37] "GET / HTTP/1.1" 200 -
+2025-06-11 13:11:37,860 - INFO - 127.0.0.1 - - [11/Jun/2025 13:11:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 13:11:40,518 - INFO - Initiating Instagram login
+2025-06-11 13:11:40,518 - INFO - Redirecting to Instagram auth: https://api.instagram.com/oauth/authorize?client_id=1114570917238608&redirect_uri=http://localhost:5000/auth/callback&scope=user_profile,user_media&response_type=code
+2025-06-11 13:11:40,519 - INFO - 127.0.0.1 - - [11/Jun/2025 13:11:40] "[32mGET /auth/login HTTP/1.1[0m" 302 -
+2025-06-11 13:18:02,354 - INFO - 127.0.0.1 - - [11/Jun/2025 13:18:02] "GET / HTTP/1.1" 200 -
+2025-06-11 13:18:02,584 - INFO - 127.0.0.1 - - [11/Jun/2025 13:18:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 13:18:04,470 - INFO - Initiating Instagram login
+2025-06-11 13:18:04,470 - INFO - Redirecting to Instagram auth: https://api.instagram.com/oauth/authorize?client_id=1114570917238608&redirect_uri=http://localhost:5000/auth/callback&scope=user_profile,user_media&response_type=code
+2025-06-11 13:18:04,470 - INFO - 127.0.0.1 - - [11/Jun/2025 13:18:04] "[32mGET /auth/login HTTP/1.1[0m" 302 -
+2025-06-11 13:21:29,861 - INFO - 127.0.0.1 - - [11/Jun/2025 13:21:29] "GET / HTTP/1.1" 200 -
+2025-06-11 13:21:33,229 - INFO - Initiating Instagram login
+2025-06-11 13:21:33,230 - INFO - Redirecting to Instagram auth: https://api.instagram.com/oauth/authorize?client_id=1114570917238608&redirect_uri=http://localhost:5000/auth/callback&scope=user_profile,user_media&response_type=code
+2025-06-11 13:21:33,230 - INFO - 127.0.0.1 - - [11/Jun/2025 13:21:33] "[32mGET /auth/login HTTP/1.1[0m" 302 -
+2025-06-11 13:22:00,200 - INFO - Database initialized successfully
+2025-06-11 13:22:00,200 - INFO - Starting Flask application...
+2025-06-11 13:22:00,236 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.4.126:5000
+2025-06-11 13:22:00,237 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-11 13:22:00,239 - INFO -  * Restarting with stat
+2025-06-11 13:22:00,551 - INFO - Database initialized successfully
+2025-06-11 13:22:00,551 - INFO - Starting Flask application...
+2025-06-11 13:22:00,570 - WARNING -  * Debugger is active!
+2025-06-11 13:22:00,575 - INFO -  * Debugger PIN: 485-313-795
+2025-06-11 13:22:03,536 - INFO - 127.0.0.1 - - [11/Jun/2025 13:22:03] "GET / HTTP/1.1" 200 -
+2025-06-11 13:22:04,997 - INFO - Initiating Instagram login
+2025-06-11 13:22:04,997 - INFO - Redirecting to Instagram auth: https://api.instagram.com/oauth/authorize?client_id=1114570917238608&redirect_uri=http://localhost:5000/auth/callback&scope=user_profile,user_media&response_type=code
+2025-06-11 13:22:04,997 - INFO - 127.0.0.1 - - [11/Jun/2025 13:22:04] "[32mGET /auth/login HTTP/1.1[0m" 302 -
+2025-06-11 13:26:19,848 - INFO -  * Detected change in 'D:\\Techesthete\\Learning\\Insta\\app.py', reloading
+2025-06-11 13:26:19,898 - INFO -  * Restarting with stat
+2025-06-11 13:26:20,237 - INFO - Database initialized successfully
+2025-06-11 13:26:20,237 - INFO - Starting Flask application...
+2025-06-11 13:26:20,254 - WARNING -  * Debugger is active!
+2025-06-11 13:26:20,259 - INFO -  * Debugger PIN: 485-313-795
+2025-06-11 14:08:56,048 - INFO - 127.0.0.1 - - [11/Jun/2025 14:08:56] "GET / HTTP/1.1" 200 -
+2025-06-11 14:08:57,396 - INFO - Initiating Instagram login
+2025-06-11 14:08:57,397 - INFO - Redirecting to Instagram Basic Display auth: https://api.instagram.com/oauth/authorize?client_id=1114570917238608&redirect_uri=http://localhost:5000/auth/callback&scope=user_profile,user_media&response_type=code
+2025-06-11 14:08:57,397 - INFO - 127.0.0.1 - - [11/Jun/2025 14:08:57] "[32mGET /auth/login HTTP/1.1[0m" 302 -
+2025-06-11 14:43:46,726 - INFO - 127.0.0.1 - - [11/Jun/2025 14:43:46] "GET / HTTP/1.1" 200 -
+2025-06-11 14:43:48,061 - INFO - Initiating Instagram login
+2025-06-11 14:43:48,061 - INFO - Redirecting to Instagram Basic Display auth: https://api.instagram.com/oauth/authorize?client_id=1114570917238608&redirect_uri=http://localhost:5000/auth/callback&scope=user_profile,user_media&response_type=code
+2025-06-11 14:43:48,061 - INFO - 127.0.0.1 - - [11/Jun/2025 14:43:48] "[32mGET /auth/login HTTP/1.1[0m" 302 -
+2025-06-11 15:19:28,699 - INFO - 127.0.0.1 - - [11/Jun/2025 15:19:28] "GET / HTTP/1.1" 200 -
+2025-06-11 15:19:30,087 - INFO - Initiating Instagram login
+2025-06-11 15:19:30,088 - INFO - Redirecting to Instagram Basic Display auth: https://api.instagram.com/oauth/authorize?client_id=1114570917238608&redirect_uri=http://localhost:5000/auth/callback&scope=user_profile,user_media&response_type=code
+2025-06-11 15:19:30,088 - INFO - 127.0.0.1 - - [11/Jun/2025 15:19:30] "[32mGET /auth/login HTTP/1.1[0m" 302 -
+2025-06-11 15:35:01,877 - INFO -  * Detected change in 'D:\\Techesthete\\Learning\\Insta\\app.py', reloading
+2025-06-11 15:35:01,929 - INFO -  * Restarting with stat
+2025-06-11 15:35:02,510 - INFO - Database initialized successfully
+2025-06-11 15:35:02,510 - INFO - Starting Flask application...
+2025-06-11 15:35:02,541 - WARNING -  * Debugger is active!
+2025-06-11 15:35:02,546 - INFO -  * Debugger PIN: 485-313-795
+2025-06-11 15:36:38,264 - INFO - Database initialized successfully
+2025-06-11 15:36:38,264 - INFO - Starting Flask application...
+2025-06-11 15:36:38,293 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.4.126:5000
+2025-06-11 15:36:38,293 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-11 15:36:38,295 - INFO -  * Restarting with stat
+2025-06-11 15:36:38,594 - INFO - Database initialized successfully
+2025-06-11 15:36:38,594 - INFO - Starting Flask application...
+2025-06-11 15:36:38,609 - WARNING -  * Debugger is active!
+2025-06-11 15:36:38,613 - INFO -  * Debugger PIN: 485-313-795
+2025-06-11 15:36:49,370 - INFO - 127.0.0.1 - - [11/Jun/2025 15:36:49] "GET / HTTP/1.1" 200 -
+2025-06-11 15:36:52,895 - INFO - Initiating Instagram login
+2025-06-11 15:36:52,895 - INFO - Redirecting to Instagram Basic Display auth: https://api.instagram.com/oauth/authorize?client_id=1722694325285923&redirect_uri=http://localhost:5000/auth/callback&scope=user_profile,user_media&response_type=code
+2025-06-11 15:36:52,896 - INFO - 127.0.0.1 - - [11/Jun/2025 15:36:52] "[32mGET /auth/login HTTP/1.1[0m" 302 -
+2025-06-11 15:39:18,129 - INFO -  * Detected change in 'D:\\Techesthete\\Learning\\Insta\\app.py', reloading
+2025-06-11 15:39:18,206 - INFO -  * Restarting with stat
+2025-06-11 15:39:18,687 - INFO - Database initialized successfully
+2025-06-11 15:39:18,687 - INFO - Starting Flask application...
+2025-06-11 15:39:18,704 - WARNING -  * Debugger is active!
+2025-06-11 15:39:18,708 - INFO -  * Debugger PIN: 485-313-795
+2025-06-11 15:40:07,547 - INFO - Database initialized successfully
+2025-06-11 15:40:07,547 - INFO - Starting Flask application...
+2025-06-11 15:40:07,577 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.4.126:5000
+2025-06-11 15:40:07,577 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-11 15:40:07,579 - INFO -  * Restarting with stat
+2025-06-11 15:40:07,901 - INFO - Database initialized successfully
+2025-06-11 15:40:07,901 - INFO - Starting Flask application...
+2025-06-11 15:40:07,922 - WARNING -  * Debugger is active!
+2025-06-11 15:40:07,926 - INFO -  * Debugger PIN: 485-313-795
+2025-06-11 15:40:15,169 - INFO - 127.0.0.1 - - [11/Jun/2025 15:40:15] "GET / HTTP/1.1" 200 -
+2025-06-11 15:40:16,968 - INFO - Initiating Instagram login
+2025-06-11 15:40:16,968 - INFO - Redirecting to Instagram Basic Display auth: https://api.instagram.com/oauth/authorize?client_id=1722694325285923&redirect_uri=http://localhost:5000/auth/callback&scope=user_profile,user_media&response_type=code
+2025-06-11 15:40:16,968 - INFO - 127.0.0.1 - - [11/Jun/2025 15:40:16] "[32mGET /auth/login HTTP/1.1[0m" 302 -
+2025-06-11 16:54:19,040 - INFO -  * Detected change in 'D:\\Techesthete\\Learning\\Insta\\app.py', reloading
+2025-06-11 16:54:19,108 - INFO -  * Restarting with stat
+2025-06-11 16:54:19,489 - INFO - Database initialized successfully
+2025-06-11 16:54:19,490 - INFO - Starting Flask application...
+2025-06-11 16:54:19,509 - WARNING -  * Debugger is active!
+2025-06-11 16:54:19,518 - INFO -  * Debugger PIN: 485-313-795
+2025-06-11 16:54:26,593 - INFO -  * Detected change in 'D:\\Techesthete\\Learning\\Insta\\app.py', reloading
+2025-06-11 16:54:26,653 - INFO -  * Restarting with stat
+2025-06-11 16:54:26,981 - INFO - Database initialized successfully
+2025-06-11 16:54:26,982 - INFO - Starting Flask application...
+2025-06-11 16:54:26,997 - WARNING -  * Debugger is active!
+2025-06-11 16:54:27,002 - INFO -  * Debugger PIN: 485-313-795
+2025-06-11 17:08:34,910 - INFO - 127.0.0.1 - - [11/Jun/2025 17:08:34] "GET / HTTP/1.1" 200 -
+2025-06-11 17:08:36,103 - INFO - Initiating Instagram login
+2025-06-11 17:08:36,103 - INFO - Redirecting to Instagram Basic Display auth: https://api.instagram.com/oauth/authorize?client_id=743367221597179&redirect_uri=http://localhost:5000/auth/callback&scope=user_profile,user_media&response_type=code
+2025-06-11 17:08:36,103 - INFO - 127.0.0.1 - - [11/Jun/2025 17:08:36] "[32mGET /auth/login HTTP/1.1[0m" 302 -
+2025-06-11 17:20:03,958 - INFO - Database initialized successfully
+2025-06-11 17:20:03,958 - INFO - Starting Flask application...
+2025-06-11 17:20:03,994 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.4.126:5000
+2025-06-11 17:20:03,995 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-11 17:20:03,996 - INFO -  * Restarting with stat
+2025-06-11 17:20:04,315 - INFO - Database initialized successfully
+2025-06-11 17:20:04,315 - INFO - Starting Flask application...
+2025-06-11 17:20:04,332 - WARNING -  * Debugger is active!
+2025-06-11 17:20:04,338 - INFO -  * Debugger PIN: 485-313-795
+2025-06-11 17:20:06,213 - INFO - 127.0.0.1 - - [11/Jun/2025 17:20:06] "GET / HTTP/1.1" 200 -
+2025-06-11 17:20:07,605 - INFO - Initiating Instagram login
+2025-06-11 17:20:07,605 - INFO - Redirecting to Instagram Basic Display auth: https://api.instagram.com/oauth/authorize?client_id=743367221597179&redirect_uri=http://localhost:5000/auth/callback&scope=user_profile,user_media&response_type=code
+2025-06-11 17:20:07,605 - INFO - 127.0.0.1 - - [11/Jun/2025 17:20:07] "[32mGET /auth/login HTTP/1.1[0m" 302 -
